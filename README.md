@@ -3,7 +3,7 @@ This project is a simple HTTP Server in C# using .NET framework version 4.6.1 (T
 
 You can run this server through Command Prompt using the exe file or Through Visual Studio using the solution. 
 
-The TCP port number is 5000 by default but if necessary, the port can be changed by passing it as the command prompt variable. 
+The TCP port number is 5000 by default but if necessary, the port can be changed by passing it as a command prompt argument. 
 
 There are a number of end points that are handled on this server as following:
 
