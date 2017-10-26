@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\bin\Debug\IstHttpServer.exe.config
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\bin\Debug\IstHttpServer.exe
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\bin\Debug\IstHttpServer.pdb
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\obj\Debug\IstHttpServer.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\obj\Debug\IstHttpServer.exe
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\obj\Debug\IstHttpServer.pdb
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\bin\Debug\Newtonsoft.Json.dll
+\\mac\home\documents\visual studio 2017\Projects\IstHttpServer\IstHttpServer\bin\Debug\Newtonsoft.Json.xml
