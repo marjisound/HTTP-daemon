@@ -47,7 +47,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CacheItem.cs" />
     <Compile Include="HttpServer.cs" />
     <Compile Include="JsonList.cs" />
     <Compile Include="PrimeNumber.cs" />
@@ -57,7 +56,9 @@
     <Compile Include="UnixTime.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
