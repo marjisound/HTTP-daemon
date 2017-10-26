@@ -1,5 +1,5 @@
 # HTTP-daemon
-This project is a simple HTTP Server in C# 
+This project is a simple HTTP Server in C# using .NET framework version 4.6.1 (This version is required for the code related to UnixTime to work)
 
 You can run this server through Command Prompt using the exe file or Through Visual Studio using the solution. 
 
